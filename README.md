@@ -1,5 +1,5 @@
 # Door_lock_system-IOT-
-This is a Simple Door lock System using Arduino UNO, Piexo Sensores,Motors and Bread Board.
+This is a Door lock System using Arduino UNO, Piexo Sensores,Motors and Bread Board.
 Materials required:
 Arduino UNO
 Breadboard
